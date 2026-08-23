@@ -1,0 +1,10 @@
+{
+  "configured": false,
+  "title": "Fish Voice Setup",
+  "voice_prompt": "PRIVATE CONFIGURATION IS INJECTED AFTER BUILD",
+  "neutral": "PRIVATE CONFIGURATION IS INJECTED AFTER BUILD",
+  "free_cutoff": "2026-08-31",
+  "tests": [
+    {"label":"Neutral","text":"PRIVATE"}
+  ]
+}
